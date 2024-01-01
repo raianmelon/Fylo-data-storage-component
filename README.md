@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/raianmelon/Fylo-data-storage-component](https://github.com/raianmelon/Fylo-data-storage-component)
+- Live Site URL: [https://fylo-data-storage-component-tawny-kappa.vercel.app/](https://fylo-data-storage-component-tawny-kappa.vercel.app/)
 
 ## My process
 
